@@ -1,0 +1,6 @@
+kernel/crypto/ansi_cprng.ko
+kernel/drivers/char/tiny4412_hello_module.ko
+kernel/drivers/scsi/scsi_wait_scan.ko
+kernel/drivers/media/video/gspca/gspca_main.ko
+kernel/sound/soc/samsung/snd-soc-wm8960.ko
+kernel/sound/soc/samsung/snd-soc-tiny4412-wm8960.ko
